@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GeoTracker Pro</string>
+    <string name="status_active">Le service %s est désormais actif</string>
+    <string name="status_inactive">Le service %s est arrêté</string>
+    <string name="status_update">Changement de statut pour %1$s : %2$s</string>
+    <string name="location_details">Position actuelle :\nLat: %1$.6f\nLong: %2$.6f\nAlt: %3$.2f\nPrécision: %4$.1f m</string>
+    <string name="no_data">Données de localisation en attente…</string>
+    <string name="upload_error">Echec de la transmission des données</string>
+</resources>
